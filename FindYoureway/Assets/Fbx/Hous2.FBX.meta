@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: f312bbda8660bf343bc5bde76c20d7e7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: Balcony_005
+    100004: Chimney_005
+    100006: Door_Double
+    100008: Door_Double 1
+    100010: Door_single
+    100012: Doorframe_01
+    100014: Doorframe_02
+    100016: Fake_Window
+    100018: Fake_Window001
+    100020: First_Floor
+    100022: //RootNode
+    100024: Railing
+    100026: Roof_004
+    100028: Stair_plane_02
+    100030: Stairs_01
+    100032: Stairs_02
+    100034: Stairs_Plane_Important
+    100036: Window_01
+    100038: Window_02
+    100040: Window_Thingy
+    100042: Window_Thingy 1
+    400000: ' 1'
+    400002: Balcony_005
+    400004: Chimney_005
+    400006: Door_Double
+    400008: Door_Double 1
+    400010: Door_single
+    400012: Doorframe_01
+    400014: Doorframe_02
+    400016: Fake_Window
+    400018: Fake_Window001
+    400020: First_Floor
+    400022: //RootNode
+    400024: Railing
+    400026: Roof_004
+    400028: Stair_plane_02
+    400030: Stairs_01
+    400032: Stairs_02
+    400034: Stairs_Plane_Important
+    400036: Window_01
+    400038: Window_02
+    400040: Window_Thingy
+    400042: Window_Thingy 1
+    2100000: 'Material #11'
+    2100002: 'Material #14'
+    2100004: 'Material #13'
+    2100006: 'Material #18'
+    2100008: 'Material #12'
+    2300000: ' 1'
+    2300002: Balcony_005
+    2300004: Chimney_005
+    2300006: Door_Double
+    2300008: Door_Double 1
+    2300010: Door_single
+    2300012: Doorframe_01
+    2300014: Doorframe_02
+    2300016: Fake_Window
+    2300018: Fake_Window001
+    2300020: First_Floor
+    2300022: Railing
+    2300024: Roof_004
+    2300026: Stair_plane_02
+    2300028: Stairs_01
+    2300030: Stairs_02
+    2300032: Stairs_Plane_Important
+    2300034: Window_01
+    2300036: Window_02
+    2300038: Window_Thingy
+    2300040: Window_Thingy 1
+    3300000: ' 1'
+    3300002: Balcony_005
+    3300004: Chimney_005
+    3300006: Door_Double
+    3300008: Door_Double 1
+    3300010: Door_single
+    3300012: Doorframe_01
+    3300014: Doorframe_02
+    3300016: Fake_Window
+    3300018: Fake_Window001
+    3300020: First_Floor
+    3300022: Railing
+    3300024: Roof_004
+    3300026: Stair_plane_02
+    3300028: Stairs_01
+    3300030: Stairs_02
+    3300032: Stairs_Plane_Important
+    3300034: Window_01
+    3300036: Window_02
+    3300038: Window_Thingy
+    3300040: Window_Thingy 1
+    4300002: Stairs_01
+    4300004: Stairs_Plane_Important
+    4300006: Doorframe_01
+    4300008: First_Floor
+    4300010: Stairs_02
+    4300012: Railing
+    4300014: Stair_plane_02
+    4300016: Doorframe_02
+    4300018: Door_single
+    4300020: Door_Double
+    4300022: Door_Double
+    4300024: Window_02
+    4300026: Window_Thingy
+    4300028: Window_Thingy
+    4300030: Window_01
+    4300032: Fake_Window
+    4300034: Balcony_005
+    4300036: Fake_Window001
+    4300038: Roof_004
+    4300040: Chimney_005
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
