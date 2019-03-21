@@ -9,8 +9,8 @@ public class ObjectOnGaol : MonoBehaviour
 {
     public Text scoretext;
     public int hoeveelheid;
-    public int winHoeveelheid = 2;
-    public GameObject win;
+    public int winHoeveelheid = 3;
+    public GameObject WinPanel;
     void Update()
     {
 
@@ -29,7 +29,7 @@ public class ObjectOnGaol : MonoBehaviour
         if (hoeveelheid >= winHoeveelheid)
         {
 
-            win.SetActive(true);
+            WinPanel.SetActive(true);
 
         }
 

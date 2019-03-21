@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: f3cf4d2bdfcb8cb41bcf365c39172d0a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BakPan
+    100002: Balcony_006
+    100004: Banc
+    100006: BarrelFruit_01
+    100008: bed
+    100010: bed001
+    100012: BigBed
+    100014: Bigbed
+    100016: Blanket
+    100018: Blanket001
+    100020: book
+    100022: Books001
+    100024: Box001
+    100026: Box066
+    100028: Box067
+    100030: Box069
+    100032: Box070
+    100034: Burger
+    100036: ChamferBox001
+    100038: ChamferBox004
+    100040: ChamferBox005
+    100042: ChamferCyl001
+    100044: Chimney_005
+    100046: Crate_02
+    100048: Door_Double
+    100050: Door_Double 1
+    100052: Door_single
+    100054: Doorframe_01
+    100056: Doorframe_02
+    100058: Eettavel004
+    100060: Eettavel007
+    100062: Fake_Window
+    100064: Fake_Window001
+    100066: Fake_Window003
+    100068: Fake_Window004
+    100070: First_Floor
+    100072: Fles002
+    100074: hous
+    100076: //RootNode
+    100078: KookPan_Klein
+    100080: oven
+    100082: pillar
+    100084: pillar002
+    100086: Plane004
+    100088: Plane005
+    100090: Railing
+    100092: Roof_010
+    100094: Stair_plane_02
+    100096: Stairs_01
+    100098: Stairs_02
+    100100: Stairs_Plane_Important
+    100102: Stoel
+    100104: Stoel007
+    100106: Stoel010
+    100108: Stoel011
+    100110: Window_01
+    100112: Window_02
+    100114: Window_Thingy
+    100116: Window_Thingy 1
+    400000: BakPan
+    400002: Balcony_006
+    400004: Banc
+    400006: BarrelFruit_01
+    400008: bed
+    400010: bed001
+    400012: BigBed
+    400014: Bigbed
+    400016: Blanket
+    400018: Blanket001
+    400020: book
+    400022: Books001
+    400024: Box001
+    400026: Box066
+    400028: Box067
+    400030: Box069
+    400032: Box070
+    400034: Burger
+    400036: ChamferBox001
+    400038: ChamferBox004
+    400040: ChamferBox005
+    400042: ChamferCyl001
+    400044: Chimney_005
+    400046: Crate_02
+    400048: Door_Double
+    400050: Door_Double 1
+    400052: Door_single
+    400054: Doorframe_01
+    400056: Doorframe_02
+    400058: Eettavel004
+    400060: Eettavel007
+    400062: Fake_Window
+    400064: Fake_Window001
+    400066: Fake_Window003
+    400068: Fake_Window004
+    400070: First_Floor
+    400072: Fles002
+    400074: hous
+    400076: //RootNode
+    400078: KookPan_Klein
+    400080: oven
+    400082: pillar
+    400084: pillar002
+    400086: Plane004
+    400088: Plane005
+    400090: Railing
+    400092: Roof_010
+    400094: Stair_plane_02
+    400096: Stairs_01
+    400098: Stairs_02
+    400100: Stairs_Plane_Important
+    400102: Stoel
+    400104: Stoel007
+    400106: Stoel010
+    400108: Stoel011
+    400110: Window_01
+    400112: Window_02
+    400114: Window_Thingy
+    400116: Window_Thingy 1
+    2100000: 'Material #35'
+    2100002: 03 - Default
+    2100004: 'Material #12'
+    2100006: 'Material #13'
+    2100008: 14 - Default
+    2100010: No Name
+    2100012: 'Material #11'
+    2100014: 'Material #39'
+    2100016: 'Material #8'
+    2100018: 'Material #36'
+    2100020: 'Material #14'
+    2100022: 05 - Default
+    2100024: 24 - Default
+    2100026: 'Material #6'
+    2100028: 'Material #38'
+    2300000: BakPan
+    2300002: Balcony_006
+    2300004: Banc
+    2300006: BarrelFruit_01
+    2300008: Blanket
+    2300010: Blanket001
+    2300012: book
+    2300014: Books001
+    2300016: Box001
+    2300018: Box066
+    2300020: Box067
+    2300022: Box069
+    2300024: Box070
+    2300026: Burger
+    2300028: ChamferBox001
+    2300030: ChamferBox004
+    2300032: ChamferBox005
+    2300034: ChamferCyl001
+    2300036: Chimney_005
+    2300038: Crate_02
+    2300040: Door_Double
+    2300042: Door_Double 1
+    2300044: Door_single
+    2300046: Doorframe_01
+    2300048: Doorframe_02
+    2300050: Eettavel004
+    2300052: Eettavel007
+    2300054: Fake_Window
+    2300056: Fake_Window001
+    2300058: Fake_Window003
+    2300060: Fake_Window004
+    2300062: First_Floor
+    2300064: Fles002
+    2300066: hous
+    2300068: KookPan_Klein
+    2300070: oven
+    2300072: pillar
+    2300074: pillar002
+    2300076: Plane004
+    2300078: Plane005
+    2300080: Railing
+    2300082: Roof_010
+    2300084: Stair_plane_02
+    2300086: Stairs_01
+    2300088: Stairs_02
+    2300090: Stairs_Plane_Important
+    2300092: Stoel
+    2300094: Stoel007
+    2300096: Stoel010
+    2300098: Stoel011
+    2300100: Window_01
+    2300102: Window_02
+    2300104: Window_Thingy
+    2300106: Window_Thingy 1
+    3300000: BakPan
+    3300002: Balcony_006
+    3300004: Banc
+    3300006: BarrelFruit_01
+    3300008: Blanket
+    3300010: Blanket001
+    3300012: book
+    3300014: Books001
+    3300016: Box001
+    3300018: Box066
+    3300020: Box067
+    3300022: Box069
+    3300024: Box070
+    3300026: Burger
+    3300028: ChamferBox001
+    3300030: ChamferBox004
+    3300032: ChamferBox005
+    3300034: ChamferCyl001
+    3300036: Chimney_005
+    3300038: Crate_02
+    3300040: Door_Double
+    3300042: Door_Double 1
+    3300044: Door_single
+    3300046: Doorframe_01
+    3300048: Doorframe_02
+    3300050: Eettavel004
+    3300052: Eettavel007
+    3300054: Fake_Window
+    3300056: Fake_Window001
+    3300058: Fake_Window003
+    3300060: Fake_Window004
+    3300062: First_Floor
+    3300064: Fles002
+    3300066: hous
+    3300068: KookPan_Klein
+    3300070: oven
+    3300072: pillar
+    3300074: pillar002
+    3300076: Plane004
+    3300078: Plane005
+    3300080: Railing
+    3300082: Roof_010
+    3300084: Stair_plane_02
+    3300086: Stairs_01
+    3300088: Stairs_02
+    3300090: Stairs_Plane_Important
+    3300092: Stoel
+    3300094: Stoel007
+    3300096: Stoel010
+    3300098: Stoel011
+    3300100: Window_01
+    3300102: Window_02
+    3300104: Window_Thingy
+    3300106: Window_Thingy 1
+    4300000: Roof_010
+    4300002: book
+    4300004: Box067
+    4300006: Box001
+    4300008: Plane004
+    4300010: ChamferBox001
+    4300012: Doorframe_02
+    4300014: Plane005
+    4300016: First_Floor
+    4300018: BarrelFruit_01
+    4300020: BakPan
+    4300022: Box066
+    4300024: Stoel
+    4300026: Crate_02
+    4300028: Fake_Window
+    4300030: KookPan_Klein
+    4300032: Balcony_006
+    4300034: Banc
+    4300036: Fles002
+    4300038: Burger
+    4300040: Door_single
+    4300042: Books001
+    4300044: ChamferCyl001
+    4300046: hous
+    4300048: Stairs_01
+    4300050: Stairs_Plane_Important
+    4300052: Doorframe_01
+    4300054: pillar002
+    4300056: Stairs_02
+    4300058: Railing
+    4300060: Stair_plane_02
+    4300062: Door_Double
+    4300064: Door_Double
+    4300066: Window_02
+    4300068: Window_Thingy
+    4300070: Window_Thingy
+    4300072: Window_01
+    4300074: oven
+    4300076: Eettavel004
+    4300078: Fake_Window001
+    4300080: pillar
+    4300082: Eettavel007
+    4300084: Stoel007
+    4300086: Fake_Window003
+    4300088: Stoel010
+    4300090: Stoel011
+    4300092: Blanket
+    4300094: ChamferBox004
+    4300096: Box069
+    4300098: Blanket001
+    4300100: Box070
+    4300102: ChamferBox005
+    4300104: Fake_Window004
+    4300106: Chimney_005
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
